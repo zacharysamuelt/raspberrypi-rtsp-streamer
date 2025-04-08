@@ -1,6 +1,6 @@
 # Raspberry Pi RTSP Streamer
 
-This script turns a Raspberry Pi into a fullscreen RTSP camera viewer over HDMI.
+This script turns a Raspberry Pi into a fullscreen RTSP camera viewer over HDMI. It was designed to use a SINGLE stream to directly output a stream over HDMI at 1080p. I had a bunch of Raspberry Pi's sitting around that I wanted to repurpose for security monitoring.
 
 ## Usage
 
